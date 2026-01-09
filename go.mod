@@ -8,6 +8,7 @@ require (
 	github.com/bake/mangadex v0.0.0-20200830124632-5ec8c2facc70
 	github.com/bmaupin/go-epub v0.5.3
 	github.com/dsnet/compress v0.0.1 // indirect
+	github.com/frankban/quicktest v1.14.6 // indirect
 	github.com/golang/snappy v0.0.1 // indirect
 	github.com/google/go-github v17.0.0+incompatible
 	github.com/google/go-querystring v1.0.0 // indirect
@@ -18,7 +19,7 @@ require (
 	github.com/schollz/progressbar/v2 v2.15.0
 	github.com/sirupsen/logrus v1.6.0
 	github.com/stretchr/testify v1.6.1
-	github.com/ulikunitz/xz v0.5.8 // indirect
+	github.com/ulikunitz/xz v0.5.14 // indirect
 	github.com/xi2/xz v0.0.0-20171230120015-48954b6210f8 // indirect
 	golang.org/x/mod v0.3.0
 )
